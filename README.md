@@ -243,7 +243,7 @@ const messam = {
 
 <img src="https://img.shields.io/badge/Quantum_Computing_Workshop-Certificate_of_Participation-6366F1?style=for-the-badge&logo=ibm&logoColor=white" />
 
-> Issued by **FAST-NUCES**, 2023
+> Issued by **FAST-NUCES**, 2025
 
 ---
 
