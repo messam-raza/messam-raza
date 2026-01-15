@@ -1,20 +1,30 @@
 # Hey there! I'm Messam Raza 👋
 
 <div align="center">
-Typing SVG
-
-</div><div align="center">
-LinkedIn
-GitHub
-Gmail
-Portfolio
-
-</div><div align="center">
-Profile Views
-Followers
+  
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=6366F1&center=true&vCenter=true&random=false&width=600&lines=Full-Stack+Developer+%F0%9F%92%BB;AI+%26+Cybersecurity+Researcher+%F0%9F%94%90;Android+Developer+%F0%9F%93%B1;Backend+Engineer+%E2%9A%99%EF%B8%8F)](https://git.io/typing-svg)
 
 </div>
-🚀 About Me
+
+<div align="center">
+  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/messam-raza)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/messam-raza)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:messampgc@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white)](https://github.com/messam-raza)
+
+</div>
+
+<div align="center">
+  
+![Profile Views](https://komarev.com/ghpvc/?username=messam-raza&color=6366F1&style=for-the-badge&label=PROFILE+VIEWS)
+![Followers](https://img.shields.io/github/followers/messam-raza?style=for-the-badge&color=6366F1&labelColor=1a1b27)
+
+</div>
+
+---
+
+## 🚀 About Me
 
 ```javascript
 const messam = {
@@ -32,8 +42,8 @@ const messam = {
 - 💼 Previously @ **Eurus Technologies** & **AppVerse Technologies**
 - 🌱 Learning **MLOps**, **Cloud Architecture** & **System Design**
 - 🎯 Goal: Building secure, scalable & intelligent systems
-- 🌐 Portfolio: [messam-razaportfolio.vercel.app](https://messam-razaportfolio.vercel.app/)
-- 📫 Reach me: messampgc@gmail.com
+- 🌐 Portfolio: messam-razaportfolio.vercel.app
+- 📫 Reach me: messampgc@gmail.com**
 - ⚡ Languages: English | Urdu | German (A1)
 
 ---
@@ -206,6 +216,14 @@ const messam = {
 ---
 
 ## 📊 GitHub Stats
+
+<div align="center">
+  
+<img src="https://github-readme-stats.vercel.app/api?username=messam-raza&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=6366F1&icon_color=6366F1" width="48%" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=messam-raza&theme=tokyonight&hide_border=true&background=1a1b27&ring=6366F1&fire=6366F1&currStreakLabel=6366F1" width="48%" />
+
+</div>
+
 <div align="center">
   
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=messam-raza&layout=compact&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=6366F1" width="40%" />
