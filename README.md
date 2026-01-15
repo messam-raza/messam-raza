@@ -42,7 +42,7 @@ const messam = {
 - 💼 Previously @ **Eurus Technologies** & **AppVerse Technologies**
 - 🌱 Learning **MLOps**, **Cloud Architecture** & **System Design**
 - 🎯 Goal: Building secure, scalable & intelligent systems
-- 🌐 Portfolio: messam-razaportfolio.vercel.app
+- 🌐 Portfolio: [messam-razaportfolio.vercel.app](https://messam-razaportfolio.vercel.app/)
 - 📫 Reach me: messampgc@gmail.com
 - ⚡ Languages: English | Urdu | German (A1)
 
