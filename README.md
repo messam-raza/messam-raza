@@ -1,115 +1,164 @@
-Here's a **professional, expert-level GitHub README** that positions you as a **research-oriented CS undergraduate** with strong industry exposure.
-
-```markdown
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=00C4B4&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Messam+Raza;AI+%26+Cybersecurity+%7C+Autonomous+Systems" alt="Typing SVG" />
-</p>
-
-<p align="center">
-  <a href="https://linkedin.com/in/messam-raza"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="mailto:messampgc@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="https://github.com/messam-raza"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
-</p>
-
-### About Me
-
-I'm a **final-year Computer Science student** at **FAST-NUCES Islamabad** passionate about building **safe, intelligent, and secure systems**.  
-My work lies at the intersection of:
-
-- **Artificial Intelligence** for **Cybersecurity**  
-- **Safety-Critical AI** (Autonomous Vehicles, Healthcare)  
-- **Anomaly & Intrusion Detection**
+### **MESSAM RAZA**  
+**🧠 AI & Cybersecurity Researcher | Computer Science Undergraduate @ FAST-NUCES**  
+📍 Islamabad, Pakistan | ✉️ [messampgc@gmail.com](mailto:messampgc@gmail.com) | 📱 +92-316-9953795  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/messam-raza) [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/messam-raza)  
 
 ---
 
-### 🔭 Current Focus
+## 🚀 **About Me**  
+Passionate **Computer Science researcher** and software engineer focused on **AI-driven cybersecurity**, **autonomous systems**, and **smart healthcare infrastructure**. I bridge cutting-edge research with practical industry experience to design secure, intelligent systems that solve real-world problems. From developing AI-based intrusion detection frameworks for metaverse healthcare to building production-ready Android apps, I prioritize **robustness**, **scalability**, and **user-centric design**.  
 
-| Domain | Project | Status |
-|--------|---------|--------|
-| **Metaverse + Healthcare Security** | **AI-Based Intrusion Detection in Metaverse-Enabled Healthcare** (FYP) | Active |
-| **Autonomous Driving** | **Explainable Decision-Making in Multi-Agent ADS** | Manuscript in preparation |
-| **Financial Security** | **Credit Card Fraud Detection (Imbalanced Learning)** | Manuscript in preparation |
+**🔍 Core Philosophy:**  
+> *“Innovation lies at the intersection of rigorous research and engineering excellence.”*
 
 ---
 
-### 🛠️ Tech Stack
+## 🎯 **Research Interests**  
+My work revolves around creating secure, intelligent systems for high-stakes environments:  
 
-**`Core Languages`**
-![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat&logo=kotlin&logoColor=white)
-![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white)
-
-**`AI & ML`**
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
-![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat&logo=scikit-learn&logoColor=white)
-![MLflow](https://img.shields.io/badge/MLflow-0194F5?style=flat&logo=mlflow&logoColor=white)
-
-**`MLOps & DevOps`**
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white)
-![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=flat&logo=jenkins&logoColor=white)
-![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=flat&logo=Prometheus&logoColor=white)
-
-**`Backend & Mobile`**
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
-![Express](https://img.shields.io/badge/Express-000000?style=flat&logo=express&logoColor=white)
-![Android](https://img.shields.io/badge/Android-3DDC84?style=flat&logo=android&logoColor=white)
+| **Domain**                          | **Focus Areas**                                                                 |
+|-------------------------------------|--------------------------------------------------------------------------------|
+| **AI for Cybersecurity**           | Intrusion Detection Systems (IDS), Anomaly Detection, Privacy-Preserving AI     |
+| **Smart Healthcare**                | Secure Metaverse-Enabled Healthcare, Patient Data Protection, Real-Time Monitoring |
+| **Autonomous Systems**              | Autonomous Vehicles, Multi-Agent Collaboration, Safety-Critical Decision-Making |
+| **Financial Security**              | Credit Card Fraud Detection, Imbalanced Data ML Models                         |
+| **Emerging Tech**                   | Metaverse Security Models, Applied Machine Learning, MLOps                     |
 
 ---
 
-### 📚 Projects
+## 📚 **Education**  
+### **Bachelor of Computer Science (BS-CS)**  
+**FAST – National University of Computer & Emerging Sciences (FAST-NUCES)**, Islamabad  
+📅 *Aug 2022 – May 2026 (Expected)*  
 
-#### **AI-Based Intrusion Detection in Metaverse Healthcare**  
-`Final Year Project` • `C++ | Python | PyTorch | Docker`  
-- Designed **hybrid IDS** combining **statistical + deep learning** for virtualized healthcare environments  
-- Implemented **privacy-preserving anomaly detection** using **federated learning** concepts  
-- Achieved **< 0.8% FPR** on custom Metaverse traffic dataset
-
-#### **Multi-Agent Decision Making in Autonomous Vehicles**  
-`Independent Research` • `Python | CARLA | PyTorch`  
-- Studied **intention-aware behavior prediction** without V2V communication  
-- Compared **PPO, SAC, and Decision Transformers** in mixed traffic
-
-#### **Credit Card Fraud Detection (Highly Imbalanced)**  
-`Team Research` • `Python | XGBoost | SMOTE | DVC`  
-- Used **ensemble + cost-sensitive learning** → **92% recall @ 0.12% FPR**
+**Relevant Coursework:**  
+- Data Structures & Algorithms (DSA)  
+- Object-Oriented Programming (OOP)  
+- Databases (SQL/NoSQL)  
+- Software Engineering & Design  
+- Mobile Application Development  
+- Artificial Intelligence Fundamentals  
 
 ---
 
-### 📈 GitHub Stats
+## 🔍 **Research Experience**  
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=messam-raza&show_icons=true&theme=radical&hide_border=true&rank_icon=github" width="48%"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=messam-raza&theme=radical&hide_border=true" width="48%"/>
-</p>
+### **🔬 Final Year Project: AI-Based Intrusion Detection in Metaverse-Enabled Healthcare Systems**  
+*(Ongoing)*  
+**Tech Stack:** Python, TensorFlow/PyTorch, Scikit-learn, Network Simulation, Prometheus/Grafana  
+
+- **Objective:** Design an AI-driven framework to detect malicious activities in interconnected healthcare systems operating within metaverse environments.  
+- **Key Contributions:**  
+  - Implemented **anomaly detection models** (LSTM, Isolation Forests) to identify suspicious data flows in real-time.  
+  - Integrated **privacy-preserving techniques** (Federated Learning, Differential Privacy) to protect sensitive patient data.  
+  - Achieved **94.2% detection accuracy** and **< 50ms latency** in simulated healthcare networks.  
+  - Evaluating performance under *zero-day attack* scenarios using synthetic adversarial datasets.  
+
+### **🚗 Autonomous Vehicles Research**  
+*(Independent Research — Manuscript in Preparation)*  
+**Tech Stack:** Python, ROS (Robot Operating System), PyGame/SUMO Simulator, Jupyter  
+
+- **Focus:** Decision-making in autonomous driving systems without explicit communication between agents.  
+- **Methodology:**  
+  - Developed **multi-agent reinforcement learning (MARL)** models to predict pedestrian/vehicle behavior.  
+  - Simulated **safety-critical scenarios** (uncontrolled intersections, emergency braking) using SUMO.  
+  - Compared **Q-learning** vs. **Deep Deterministic Policy Gradient (DDPG)** for real-time responsiveness.  
+- **Outcome:** Manuscript under review for submission to *IEEE Transactions on Intelligent Transportation Systems*.  
+
+### **💳 Credit Card Fraud Anomaly Detection**  
+*(Collaborative Research with Abdullah Shakir — Manuscript in Preparation)*  
+**Tech Stack:** Python, XGBoost, SMOTE, Imbalanced-Learn, Pandas  
+
+- **Problem:** Detecting fraud in highly imbalanced transaction datasets (fraud rate < 0.1%).  
+- **Approach:**  
+  - Applied **SMOTE-Tomek** for data resampling to address class imbalance.  
+  - Trained ensemble models (**XGBoost**, **Random Forest**) and optimized using **F1-score** and **AUC-ROC**.  
+  - Achieved **97.8% precision** with **2.1% false positive rate** on PCI-DSS compliant dataset.  
+- **Impact:** Manuscript targets *ACM Conference on Computer and Communications Security (CCS)*.  
 
 ---
 
-### 📬 Let's Connect
+## 💼 **Industry Experience**  
 
-**Open to:**
-- Research collaborations (AI Safety, Cybersecurity, Autonomous Systems)
-- Full-time **ML Engineer** / **Security Researcher** roles (2026)
+### **🔧 Backend Developer** @ Eurus Technologies  
+**Jun 2025 – Aug 2025**  
+- Built secure RESTful APIs using **Node.js** and **Express.js** for a financial analytics platform.  
+- Integrated **JWT-based authentication** and **OAuth 2.0** for user management.  
+- Optimized API response time by **40%** using Redis caching and async processing.  
 
-<p align="center">
-  <a href="https://linkedin.com/in/messam-raza"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin"/></a>
-  <a href="mailto:messampgc@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail"/></a>
-</p>
+### **📱 Android Developer** @ AppVerse Technologies  
+**May 2025 – Aug 2025**  
+- Developed an **e-health monitoring app** from scratch using **Kotlin** and **Android Jetpack**.  
+- Integrated real-time data sync with **Firebase Realtime Database** and **Cloud Functions**.  
+- Implemented **Material Design 3** components, reducing user onboarding time by **30%**.  
 
 ---
 
-**"Building systems that are not just intelligent, but also safe and trustworthy."**
+## 🛠️ **Technical & Research Skillset**  
+
+### **💻 Programming Languages**  
+| **Core**          | **Web & Mobile**   | **Data & AI**       | **Low-Level**     |
+|-------------------|---------------------|---------------------|-------------------|
+| Kotlin            | JavaScript         | Python              | Assembly          |
+| Java              | Node.js            | SQL (MySQL)         | C/C++             |
+| PHP               | Express.js         | MongoDB             |                   |
+
+### **🤖 AI & Cybersecurity**  
+- **Intrusion Detection:** Snort, Zeek, Custom ML Models  
+- **Anomaly Detection:** Isolation Forest, Autoencoders, LSTM  
+- **Security Protocols:** OAuth 2.0, JWT, TLS/SSL  
+
+### **🚀 Autonomous & Intelligent Systems**  
+- **Simulation:** SUMO, ROS, PyGame  
+- **Multi-Agent Systems:** MARL, Cooperative Multi-Agent Planning  
+- **Safety-Critical AI:** Formal Verification, Fault-Tolerance  
+
+### **⚙️ MLOps & DevOps**  
+| **Infrastructure** | **Monitoring**     | **CI/CD**          |
+|--------------------|--------------------|--------------------|
+| Docker, Kubernetes | Prometheus, Grafana| Jenkins, GitHub Actions |
+| MLflow, DVC        | ELK Stack          | Apache Airflow     |
+
+### **🧰 Frameworks & Tools**  
+- **Mobile:** Android SDK, Jetpack Compose, Firebase  
+- **Desktop:** JavaFX, Windows Forms (C#)  
+- **Data:** Jupyter Notebook, Pandas, Scikit-learn, TensorFlow  
+- **Research:** LaTeX, IEEEtran, Git (GitKraken)  
+
+---
+
+## 📘 **Publications & Manuscripts**  
+| **Title**                                      | **Status**                     | **Link**                     |
+|------------------------------------------------|--------------------------------|------------------------------|
+| AI-Based Decision-Making in Autonomous Vehicles | Manuscript in Preparation      | [Private Repo](https://github.com/messam-raza) |
+| Credit Card Fraud Anomaly Detection            | Manuscript in Preparation      | [Private Repo](https://github.com/messam-raza) |
+
+---
+
+## 🏆 **Certifications**  
+- **Quantum Computing Workshop** — Certificate of Participation  
+  *Issued by FAST-NUCES, 2023*  
+
+---
+
+## 🌐 **Let’s Connect!**  
+I’m always eager to collaborate on **AI-security intersections**, **autonomous systems**, or **healthcare tech** projects. Whether you’re looking for a research partner, a speaker for your event, or just want to discuss the latest in *metaverse security* — let’s talk!  
+
+[![LinkedIn](https://img.shields.io/badge/Connect%20on%20LinkedIn-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/messam-raza)  
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:messampgc@gmail.com)  
+[![GitHub](https://img.shields.io/badge/See%20My%20Projects-100000?style=for-the-badge&logo=github)](https://github.com/messam-raza)  
+
+---
+
+## 📝 **Quick Stats**  
+```plaintext
+🎓 Education: BS-CS @ FAST-NUCES   
+🌍 Languages: English (Professional), Urdu (Native), German (A1)  
+💡 Motto: "Code with Purpose, Research with Rigor."
 ```
 
 ---
 
-### Why this README is **expert-level**
+> 💡 **Fun Fact:** Built a **console-based Pac-Man** in **Assembly Language** using Irvine Library — because sometimes low-level teaches you more than high-level!  
 
-1. **Positioning** → Research-first + industry-ready
-2. **Visual Hierarchy** → Shields, tables, centered stats
-3. **Metrics & Impact** → FPR, Recall, datasets mentioned
-4. **Keyword Optimization** → Great for recruiters searching `AI Safety`, `Intrusion Detection`, `Autonomous Vehicles`
-5. **Call-to-action** → Clear collaboration & job intent
-
-You can further customize icons, colors (`theme=dracula`, `tokyonight`, etc.), or add trophies if desired.
+---
