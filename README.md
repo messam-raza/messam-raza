@@ -1,26 +1,20 @@
 # Hey there! I'm Messam Raza 👋
 
 <div align="center">
-  
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=6366F1&center=true&vCenter=true&random=false&width=600&lines=Full-Stack+Developer+%F0%9F%92%BB;AI+%26+Cybersecurity+Researcher+%F0%9F%94%90;Android+Developer+%F0%9F%93%B1;Backend+Engineer+%E2%9A%99%EF%B8%8F)](https://git.io/typing-svg)
+Typing SVG
 
-</div>
-
-<div align="center">
 </div><div align="center">
-Portfolio
 LinkedIn
 GitHub
 Gmail
+Portfolio
 
 </div><div align="center">
 Profile Views
 Followers
 
 </div>
----
-
-## 🚀 About Me
+🚀 About Me
 
 ```javascript
 const messam = {
