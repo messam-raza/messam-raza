@@ -216,14 +216,6 @@ const messam = {
 ---
 
 ## 📊 GitHub Stats
-
-<div align="center">
-  
-<img src="https://github-readme-stats.vercel.app/api?username=messam-raza&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=6366F1&icon_color=6366F1" width="48%" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=messam-raza&theme=tokyonight&hide_border=true&background=1a1b27&ring=6366F1&fire=6366F1&currStreakLabel=6366F1" width="48%" />
-
-</div>
-
 <div align="center">
   
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=messam-raza&layout=compact&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=6366F1" width="40%" />
