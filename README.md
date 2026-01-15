@@ -7,21 +7,17 @@
 </div>
 
 <div align="center">
-  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/messam-raza)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/messam-raza)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:messampgc@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white)][messam-razaportfolio.vercel.app](https://messam-razaportfolio.vercel.app/)
+</div><div align="center">
+Portfolio
+LinkedIn
+GitHub
+Gmail
+
+</div><div align="center">
+Profile Views
+Followers
 
 </div>
-
-<div align="center">
-  
-![Profile Views](https://komarev.com/ghpvc/?username=messam-raza&color=6366F1&style=for-the-badge&label=PROFILE+VIEWS)
-![Followers](https://img.shields.io/github/followers/messam-raza?style=for-the-badge&color=6366F1&labelColor=1a1b27)
-
-</div>
-
 ---
 
 ## 🚀 About Me
