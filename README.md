@@ -41,8 +41,9 @@ const messam = {
 - 🔭 Currently working on **AI-Based Intrusion Detection Systems**
 - 💼 Previously @ **Eurus Technologies** & **AppVerse Technologies**
 - 🌱 Learning **MLOps**, **Cloud Architecture** & **System Design**
-- 🎯 Goal: Building **secure, scalable & intelligent systems**
-- 📫 Reach me: **messampgc@gmail.com**
+- 🎯 Goal: Building secure, scalable & intelligent systems
+- 🌐 Portfolio: messam-razaportfolio.vercel.app
+- 📫 Reach me: messampgc@gmail.com
 - ⚡ Languages: English | Urdu | German (A1)
 
 ---
